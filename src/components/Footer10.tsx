@@ -1,4 +1,4 @@
-// Footer5_2_reduced.tsx
+// Footer10.tsx
 import React, { useState, useEffect } from "react";
 import { Mail, Phone, MapPin, X } from "lucide-react";
 import logoSvg from "../assets/radiant-self-worth.svg";
@@ -85,7 +85,7 @@ export const Footer: React.FC = () => {
         </div>
 
         {/* Upper Section: Contact Information */}
-        <div className="brightness-60 font-serif text-[36px] font-base tracking-[0.1em] text-radiant -mt-18 mb-12 text-center">
+        <div className="brightness-60 font-serif text-[30px] sm:text-[36px] leading-tight font-normal tracking-[0.1em] text-radiant -mt-18 mb-12 text-center">
           Contact Melissa
         </div>
 
