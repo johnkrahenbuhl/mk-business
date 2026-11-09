@@ -21,7 +21,7 @@ export const HeroRSW = () => {
           <br className="block sm:hidden" />
           <span className="text-amber-400 italic">Evolution</span>{" "}
           <br className="block sm:hidden" />
-          Today!
+          Today
         </div>
 
         {/* UPDATED: Increased mobile margin-bottom from mb-20 to mb-28 */}
